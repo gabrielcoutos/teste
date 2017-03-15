@@ -27,7 +27,7 @@ public class main {
             numeroList.add(Integer.parseInt(valores[i]));
         }
         numeroList.sort(null);
-        System.out.println("teste");
+        System.out.println("teste1");
                 
         
         System.out.println(numeroList);
